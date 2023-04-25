@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erik Nunes de Carvalho</h1>
 <h3 align="center">A passionate Programming Student from Espírito Santo - Brazil</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=erikvix&show_icons=true&theme=radical" alt="csharp" width="49%" height="195px"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikvix&layout=compact&theme=radical" alt="csharp" width="50%" height="195px"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=erikvix&show_icons=true&theme=radical" alt="csharp" width="49%" height="195px"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikvix&layout=compact&theme=radical" alt="csharp" width="50%" height="195px"/> -->
 
 - 🌱 I’m currently learning Python, JS and C#
 - 👨‍💻 My projects and studies are available at GitHub (erikvix))
