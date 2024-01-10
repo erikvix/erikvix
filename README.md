@@ -3,7 +3,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=erikvix&show_icons=true&theme=radical" alt="csharp" width="49%" height="195px"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikvix&layout=compact&theme=radical" alt="csharp" width="50%" height="195px"/>
 
-- 🌱 I’m currently learning MongoDB, React and C#
+- 🌱 I’m currently learning React and Typescript
 - 👨‍💻 My projects and studies are available at GitHub (erikvix))
 - 📫 How to reach me: erikvixx@gmail.com
 - ⚡ Hobbys: 🎹 Musical production, 💪 Bodybuilding and 🎮 Game development
